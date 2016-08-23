@@ -1,4 +1,3 @@
-layout_spectrum: 0.7545315991155803
 typography_spectrum: 0.05850907415151596
 color:
   brandStrength: 0.00221063569188118
@@ -6,9 +5,11 @@ color:
   saturation: 0.33485921984538436
   rhythmicContrast: 0.5939876181073487
   brandColors:
-    - '#A98199'
-    - '#FBF3E8'
-    - '#2B1919'
-    - '#CB5734'
-    - '#C3B4BD'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.7545315991155803
 name: Still life
+title: Helena Distler
